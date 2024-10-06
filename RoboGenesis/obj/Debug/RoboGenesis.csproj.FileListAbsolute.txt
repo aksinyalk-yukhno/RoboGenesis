@@ -1,0 +1,94 @@
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.exe.config
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.exe
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.pdb
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\bin\Debug\Guna.UI2.dll
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\\obj\Debug\RoboGenesis.Form1.resources
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.exe
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.pdb
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Chat.resources
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Inbox.resources
+C:\Users\pLoTo\source\repos\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csprojAssemblyReference.cache
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.exe.config
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.exe
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.pdb
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.AssemblyReference.cache
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.Form1.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.Properties.Resources.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Chat.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.GenerateResource.cache
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.CoreCompileInputs.cache
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.CopyComplete
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.exe
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.pdb
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\bin\Debug\Guna.UI2.dll
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Inbox1.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Shelf.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Shop.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Inbox2.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UС_InboxRegister1.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Books.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Book_Example.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Book_Details.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Shop_Basket.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Basket_Details.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Basket_Example.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Event.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Event_Example.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Test_Example.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home_Course.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home_Challenge.resources
+C:\Users\100NOUT\Downloads\codeinpc.comRoboGenesis (1)\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Inbox__Authorization1.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.exe.config
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.exe
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\RoboGenesis.pdb
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.AssemblyReference.cache
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.Form1.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.Properties.Resources.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Event.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Event_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Test_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Basket_Details.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Basket_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Book_Details.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Book_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Chat.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home_Course.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home_Challenge.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Inbox1.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Inbox2.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Shelf.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Shop.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Shop_Basket.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UС_InboxRegister1.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.GenerateResource.cache
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.CoreCompileInputs.cache
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.csproj.CopyComplete
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.exe
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.pdb
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_InboxAuthorization.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\System.Memory.dll
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\bin\Debug\System.Buffers.dll
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Profile_Stats.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UС_User_Panel.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Article_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Video_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home_Category.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_NoAuth_Form.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Home_Course_Details.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Activity_Test_Details.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Course_Theory.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Course_Project.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Course_Comment.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Test_Question_Example.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_Test_Result.resources
+C:\Users\100NOUT\Desktop\RoboGenesis\RoboGenesis\obj\Debug\RoboGenesis.UserControls.UC_PasswordRecovery.resources
