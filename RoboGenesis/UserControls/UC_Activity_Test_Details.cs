@@ -7,10 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static OutlookDemo.TestHelper;
-using static OutlookDemo.UserControls.UC_Test_Question_Example;
+using static RoboGenesis.TestHelper;
+using static RoboGenesis.UserControls.UC_Test_Question_Example;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     public partial class UC_Activity_Test_Details : UserControl
     {
