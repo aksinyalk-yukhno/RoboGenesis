@@ -6,7 +6,7 @@ using System.Data;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
-namespace OutlookDemo
+namespace RoboGenesis
 {
     internal class MY_DB
     {
