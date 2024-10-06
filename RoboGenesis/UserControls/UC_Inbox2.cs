@@ -10,10 +10,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-using static OutlookDemo.TestHelper;
+using static RoboGenesis.TestHelper;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
 
     public partial class UC_Inbox2 : UserControl
