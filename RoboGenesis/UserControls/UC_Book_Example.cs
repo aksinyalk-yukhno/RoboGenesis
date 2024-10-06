@@ -11,9 +11,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
-
     public partial class UC_Book_Example : UserControl
     {
         public UC_Book_Example()
