@@ -1,5 +1,5 @@
 ﻿using Guna.UI2.WinForms;
-using OutlookDemo.UserControls;
+using RoboGenesis.UserControls;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OutlookDemo
+namespace RoboGenesis
 {
     public partial class Form1 : Form
     {
