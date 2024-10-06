@@ -12,9 +12,9 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static OutlookDemo.BookHelper;
+using static RoboGenesis.BookHelper;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     public partial class UC_Shelf : UserControl
     {
