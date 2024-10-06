@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.IO;
 
-namespace OutlookDemo
+namespace RoboGenesis
 {
     class USER
     {
