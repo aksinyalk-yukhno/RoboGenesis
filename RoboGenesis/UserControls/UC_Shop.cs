@@ -9,10 +9,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static OutlookDemo.BookHelper;
-using static OutlookDemo.ProductHelper;
+using static RoboGenesis.BookHelper;
+using static RoboGenesis.ProductHelper;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     public partial class UC_Shop : UserControl
     {
