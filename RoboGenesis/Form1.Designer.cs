@@ -1,4 +1,4 @@
-﻿namespace OutlookDemo
+﻿namespace RoboGenesis
 {
     partial class Form1
     {
