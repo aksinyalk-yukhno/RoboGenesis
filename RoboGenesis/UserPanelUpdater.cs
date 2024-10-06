@@ -1,4 +1,4 @@
-﻿using OutlookDemo.UserControls;
+﻿using RoboGenesis.UserControls;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OutlookDemo
+namespace RoboGenesis
 {
     internal class UserPanelUpdater
     {
