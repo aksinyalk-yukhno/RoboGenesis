@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     partial class UC_Home_Category
     {
