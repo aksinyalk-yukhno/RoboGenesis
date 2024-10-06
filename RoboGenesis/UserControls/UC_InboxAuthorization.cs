@@ -8,11 +8,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using OutlookDemo.UserControls;
+using RoboGenesis.UserControls;
 using MySql.Data.MySqlClient;
 using Guna.UI2.WinForms;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     public partial class UC_InboxAuthorization : UserControl
     {
