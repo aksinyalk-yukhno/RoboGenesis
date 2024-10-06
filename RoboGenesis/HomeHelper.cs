@@ -5,9 +5,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static OutlookDemo.HomeHelper;
+using static RoboGenesis.HomeHelper;
 
-namespace OutlookDemo
+namespace RoboGenesis
 {
     internal class HomeHelper
     {
