@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 using System.Reflection.Emit;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     public partial class UС_User_Panel : UserControl
     {
