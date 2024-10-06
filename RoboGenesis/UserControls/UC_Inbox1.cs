@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Guna.UI2.WinForms;
 using Microsoft.VisualBasic.ApplicationServices;
-using OutlookDemo.Properties;
+using RoboGenesis.Properties;
 using Guna.UI2.HtmlRenderer.Adapters;
 
-namespace OutlookDemo.UserControls
+namespace RoboGenesis.UserControls
 {
     public partial class UC_Inbox1 : UserControl
     {
