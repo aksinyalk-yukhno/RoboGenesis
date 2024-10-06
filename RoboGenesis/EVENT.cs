@@ -1,5 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
-using OutlookDemo.UserControls;
+using RoboGenesis.UserControls;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OutlookDemo
+namespace RoboGenesis
 {
     class EVENT
     {
