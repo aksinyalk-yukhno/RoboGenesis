@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OutlookDemo.Properties
+namespace RoboGenesis.Properties
 {
 
 
