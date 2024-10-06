@@ -1,4 +1,4 @@
-﻿namespace OutlookDemo.UserControls
+﻿namespace RoboGenesis.UserControls
 {
     partial class UC_Course_Project
     {
